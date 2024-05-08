@@ -11,7 +11,9 @@ A PowerBI Dashboard for visualizing and gaining insights on the GDP of various c
 ## Data
 
 The data for building the dashboard was acquired from source: 
+
 https://ourworldindata.org/time-use
+
 https://ourworldindata.org/grapher/gdp-per-capita-maddison
 
 https://ourworldindata.org/working-hours 
